@@ -1,10 +1,10 @@
 # CNS_LAB
 
 ## Student Information
-- **Name:** Virendra Tambavekar
-- **Roll Number:** 04
+- **Name:** Bhushan Kailas Sonawane
+- **Roll Number:** 36
 - **Division:** D
-- **Batch:** T10
+- **Batch:** T11
 
 ## Repository Information
 This repository contains all Computer Network Security (CNS) Lab practical assignments.
